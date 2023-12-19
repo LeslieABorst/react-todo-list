@@ -1,0 +1,8 @@
+// how to use media queries as variables 
+//     @include filename.queriename {
+//         propertytochange: value;
+//     }
+
+// variables dont import like globals have to be imported into each scss file you want to use them in??
+
+$primary: #5287a9;
